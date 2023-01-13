@@ -9,8 +9,10 @@ Imports System.Data.SqlClient
 Imports MySqlConnector.MySqlConnection
 Imports MySqlConnector
 Imports MySql.Data.MySqlClient
-'Botones de postgres
+
 Public Class Form1
+    Dim socure As String = "kenjos\SQLEXPRESS"
+    'Botones de postgres
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim conn As New NpgsqlConnection("Server=localhost;Database=BDPRODUCTO;Username=postgres;Password=123456")
 
@@ -220,12 +222,12 @@ Public Class Form1
         conn.Close()
     End Sub
 
-    '***********************************************Botones de SQL Server****************************************
+    '****************Botones de SQL Server*************
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         'Declare variables
         Dim connectionString As String
         Dim conn As New ADODB.Connection
-        connectionString = "Provider=SQLOLEDB;Data Source=DESKTOP-3SUCHO1\SQLEXPRESS;Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
+        connectionString = "Provider=SQLOLEDB;Data Source=" & socure & ";Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
         Try
             ' Abre la conexión
             conn.Open(connectionString)
@@ -246,7 +248,7 @@ Public Class Form1
         Dim connectionString As String
         Dim conn As New ADODB.Connection
         Dim sql As String
-        connectionString = "Provider=SQLOLEDB;Data Source=DESKTOP-3SUCHO1\SQLEXPRESS;Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
+        connectionString = "Provider=SQLOLEDB;Data Source=" & socure & ";Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
         conn.Open(connectionString)
         ' Obtiene la hora actual
         Dim startTime As DateTime = DateTime.Now
@@ -280,7 +282,7 @@ Public Class Form1
         Dim connectionString As String
         Dim conn As New ADODB.Connection
         Dim sql As String
-        connectionString = "Provider=SQLOLEDB;Data Source=DESKTOP-3SUCHO1\SQLEXPRESS;Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
+        connectionString = "Provider=SQLOLEDB;Data Source=" & socure & ";Initial Catalog=BDPRODUCTO;Integrated Security=SSPI;"
         conn.Open(connectionString)
 
         sql = "DELETE FROM PRODUCTO"
@@ -304,7 +306,7 @@ Public Class Form1
             Return
         End If
         ' Cadena de conexión a la base de datos
-        Dim conexion As New SqlConnection("Data Source=DESKTOP-3SUCHO1\SQLEXPRESS;Initial Catalog=BDPRODUCTO;Integrated Security=True")
+        Dim conexion As New SqlConnection("Data Source=" & socure & ";Initial Catalog=BDPRODUCTO;Integrated Security=True")
         Try
             ' Abrir la conexión
             conexion.Open()
