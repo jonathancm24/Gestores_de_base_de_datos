@@ -1,0 +1,62 @@
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Gestores de base de datos.exe
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Gestores de base de datos.deps.json
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Gestores de base de datos.runtimeconfig.json
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Gestores de base de datos.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Gestores de base de datos.pdb
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.vbproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores_de_base_de_datos.Form1.resources
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.vbproj.GenerateResource.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.AssemblyInfo.vb
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.vbproj.CopyComplete
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\refint\Gestores de base de datos.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.pdb
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\ref\Gestores de base de datos.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Interop.ADOMD.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Interop.ADOR.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\obj\Debug\net6.0-windows\Gestores de base de datos.vbproj.ResolveComReference.cache
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Proxemity.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Vita.dll
+C:\Users\jonat\source\repos\Gestores de base de datos\bin\Debug\net6.0-windows\Vita.Data.MySql.dll
